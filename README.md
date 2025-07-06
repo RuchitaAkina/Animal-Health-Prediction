@@ -5,11 +5,11 @@ This project uses a Random Forest classifier and achieves an accuracy of 98.9%.
 
 **Features**
 
-->Predicts the health risk level of animals
-->User-friendly web interface built with Streamlit
-->Trained using Random Forest Classifier
-->One-hot encoding for categorical features
-->Supports model loading using `joblib` and `pkl`
+- Predicts the health risk level of animals
+- User-friendly web interface built with Streamlit
+- Trained using Random Forest Classifier
+- One-hot encoding for categorical features
+- Supports model loading using `joblib` and `pkl`
 
 **Technologies Used**
 
